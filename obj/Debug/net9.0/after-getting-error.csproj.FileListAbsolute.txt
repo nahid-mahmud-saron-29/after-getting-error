@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\New folder\after-getting-error\bin\Debug\net9.0\after-getting-error.exe
+C:\Users\User\Desktop\New folder\after-getting-error\bin\Debug\net9.0\after-getting-error.deps.json
+C:\Users\User\Desktop\New folder\after-getting-error\bin\Debug\net9.0\after-getting-error.runtimeconfig.json
+C:\Users\User\Desktop\New folder\after-getting-error\bin\Debug\net9.0\after-getting-error.dll
+C:\Users\User\Desktop\New folder\after-getting-error\bin\Debug\net9.0\after-getting-error.pdb
+C:\Users\User\Desktop\New folder\after-getting-error\obj\Debug\net9.0\after-getting-error.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\New folder\after-getting-error\obj\Debug\net9.0\after-getting-error.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\New folder\after-getting-error\obj\Debug\net9.0\after-getting-error.AssemblyInfo.cs
+C:\Users\User\Desktop\New folder\after-getting-error\obj\Debug\net9.0\after-getting-error.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\New folder\after-getting-error\obj\Debug\net9.0\after-getting-error.sourcelink.json
+C:\Users\User\Desktop\New folder\after-getting-error\obj\Debug\net9.0\after-getting-error.dll
+C:\Users\User\Desktop\New folder\after-getting-error\obj\Debug\net9.0\refint\after-getting-error.dll
+C:\Users\User\Desktop\New folder\after-getting-error\obj\Debug\net9.0\after-getting-error.pdb
+C:\Users\User\Desktop\New folder\after-getting-error\obj\Debug\net9.0\after-getting-error.genruntimeconfig.cache
+C:\Users\User\Desktop\New folder\after-getting-error\obj\Debug\net9.0\ref\after-getting-error.dll
